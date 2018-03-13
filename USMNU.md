@@ -18,9 +18,9 @@ https://play.pokemonshowdown.com/neverused
 
 # 天梯部分
 
-在 PS 官服的NU天梯内，取得 1500 ELO 且 GXE 83%以上，则获得国服头像。**登顶天梯者可以获得专属宠物。**
+在 PS 官服的NU天梯内，取得 1550 ELO 且 GXE 83%以上，则获得国服头像。**登顶天梯者可以获得专属宠物。**
 
-取得 1400 ELO 且 GXE 80% 以上，则获得公屏VOICE权限和NU房间权限。
+取得 1450 ELO 且 GXE 80% 以上，则获得公屏VOICE权限和NU房间权限。
 
 # 分级规则与资源
 
